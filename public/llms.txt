@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מערכת ניהול משמרות לבתי חולים עם אלגוריתמים חכמים לשיבוץ אוטומטי של צוותים רפואיים. חסכו זמן ומנעו קונפליקטים בלחיצת כפתור.
+
+### פלטפורמה
+https://example.com/platform
+גלו את הפלטפורמה המתקדמת לניהול משמרות בתי חולים: שיבוץ אוטומטי חכם, ניהול מאפייני עובדים, שליטה ידנית מלאה וממשק אינטואיטיוי לחיסכון בשעות עבודה.
+
+### מודיעין קונפליקטים
+https://example.com/conflicts
+מנגנון מתקדם למעקב וזיהוי קונפליקטים בשיבוץ משמרות רפואיות. מנעו חפיפות, עומסים ומחסור בצוות עם מערכת אינטליגנטית שמבטיחה שיבוץ מיטבי.
+
+### צור קשר
+https://example.com/contact
+צרו קשר עם מומחי השיבוץ שלנו וגלו איך לחסוך עד 80% מזמן ניהול המשמרות בבית החולים. ייעוץ ראשוני ללא התחייבות וקבלת הצעת מחיר מותאמת.
+
+### Products
+https://example.com/products
+המוצרים שלנו - משמרות באר שבע
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - משמרות באר שבע
+
+### Category
+https://example.com/category/:slug
+מוצרים - משמרות באר שבע
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
